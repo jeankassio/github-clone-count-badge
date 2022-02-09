@@ -1,26 +1,3 @@
 {
-  "count": 8,
-  "uniques": 7,
-  "clones": [
-    {
-      "timestamp": "2022-01-26T00:00:00Z",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "timestamp": "2022-02-02T00:00:00Z",
-      "count": 4,
-      "uniques": 4
-    },
-    {
-      "timestamp": "2022-02-04T00:00:00Z",
-      "count": 2,
-      "uniques": 1
-    },
-    {
-      "timestamp": "2022-02-05T00:00:00Z",
-      "count": 1,
-      "uniques": 1
-    }
-  ]
+  "message": "Server Error"
 }
