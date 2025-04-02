@@ -1,5 +1,26 @@
 {
-  "message": "The Traffic API is temporarily unavailable",
-  "documentation_url": "https://docs.github.com/rest/metrics/traffic#get-repository-clones",
-  "status": "503"
+  "count": 6,
+  "uniques": 6,
+  "clones": [
+    {
+      "timestamp": "2025-03-21T00:00:00Z",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2025-03-27T00:00:00Z",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2025-03-28T00:00:00Z",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "timestamp": "2025-03-29T00:00:00Z",
+      "count": 2,
+      "uniques": 2
+    }
+  ]
 }
